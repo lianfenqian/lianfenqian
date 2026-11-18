@@ -1,8 +1,6 @@
 
 # Dr. Lianfen Qian
-### Professor of Practice | Statistics & Data Science | Statistical Machine Learning | Research & Education
-### The University of Arizona, Tucson, Arizona
-### Website: [Homepage] (https://www.math.arizona.edu/people/lqian01)
+### Professor of Practice · Statistics · Mathematics · Data Science
 
 I am a Professor of Practice in the Department of Mathematics at the University of Arizona. My academic background includes a Ph.D. in Statistics from Michigan State University and extensive experience in university teaching, research, and interdisciplinary collaboration.
 
@@ -60,6 +58,6 @@ Time Series, Machine Learning
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lianfen-qian1/)
 - Google site: [Personal page](https://sites.google.com/view/lianfenqian)
 - ORCID page: [Publication](https://orcid.org/0000-0002-0286-4588)
-
+- Email address: Lqian01@arizona.edu
 ---
-*Sharing knowledge through statistics, research, and data science.*
+*Sharing statistics and data science knowledge through teaching, research, and professional service.*
